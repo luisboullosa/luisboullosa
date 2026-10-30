@@ -1,5 +1,9 @@
 # Luis Boullosa
 
+Hi, I'm Luis. I'm a freelance data scientist and statistical programmer living in Groningen, Netherlands. I started out in biology and ecology, spent four years formatting clinical trial study data so health agencies could review new medicines, and now work with Python, R, and SAS.
+I'm drawn to supporting roles because I like finding what slows someone down and clearing it away. Back in school, when classmates had a hard time with maths, I would invite them over because I liked the topic and I found my teacher's style frustrating. That is still how I build software: listening for the frustration before writing a script.
+Outside of code, I dogsit older and rescued dogs with complex behaviours, volunteer with the Pillow Society (https://pillow.luisboullosa.me a community for people still finding their place), take photographs, and practice Dutch.
+    
 **Research Software Engineer & Scientific Programmer**  
 *Groningen, Netherlands* · [LinkedIn](https://www.linkedin.com/in/luis-boullosa) · [Email](mailto:luis.fernando.vvb@gmail.com)
 
